@@ -41,9 +41,6 @@ def partTwo():
   print("answer of part 2 = ",hor_pos*depth)
 
 
-
-  
-
 def main():
   partOne()
   partTwo()
